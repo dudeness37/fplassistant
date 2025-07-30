@@ -1,26 +1,15 @@
 version: "3.9"
 
 services:
-  db:
-    image: postgres:16-alpine
-    container_name: fplai-db
-    environment:
-      POSTGRES_DB: ${POSTGRES_DB}
-      POSTGRES_USER: ${POSTGRES_USER}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-    ports:
-      - "5432:5432"
-    volumes:
-      - db_data:/var/lib/postgresql/data
-
   api:
     build:
       context: ../backend
       dockerfile: Dockerfile
     container_name: fplai-api
-    depends_on:
-      - db
     environment:
+      # Must point to your Neon DB (psycopg/SQLAlchemy URL)
+      # Example:
+      # DATABASE_URL=postgresql+psycopg://USER:PASSWORD@HOST/neondb?sslmode=require
       DATABASE_URL: ${DATABASE_URL}
       TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN}
       TZ: Europe/Madrid
@@ -29,6 +18,7 @@ services:
     volumes:
       - ../backend:/app
     command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    restart: unless-stopped
 
   telegram_bot:
     build:
@@ -44,6 +34,7 @@ services:
     volumes:
       - ../backend:/app
     command: python -m app.services.telegram_bot
+    restart: unless-stopped
 
   frontend:
     build:
@@ -53,12 +44,12 @@ services:
     depends_on:
       - api
     environment:
-      NEXT_PUBLIC_API_BASE: http://api:8000
+      # If your frontend fetches from the browser, localhost is correct.
+      # If you previously used http://api:8000 and it worked for you, keep it.
+      NEXT_PUBLIC_API_BASE: http://localhost:8000
     ports:
       - "3000:3000"
     volumes:
       - ../frontend:/usr/src/app
     command: sh -c "npm install && npm run dev"
-
-volumes:
-  db_data:
+    restart: unless-stopped

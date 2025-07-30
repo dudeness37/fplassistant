@@ -1,0 +1,392 @@
+team,player_id,player_name
+ARS,393,Benjamin White
+ARS,395,Brayden Clarke
+ARS,383,David Raya Martín
+ARS,405,Fábio Ferreira Vieira
+ARS,413,Gabriel Fernando de Jesus
+ARS,401,Gabriel Martinelli Silva
+ARS,387,Gabriel dos Santos Magalhães
+ARS,410,Ismeal Kabia
+ARS,397,Josh Nichols
+ARS,384,Kepa Arrizabalaga Revuelta
+ARS,396,Maldini Kacurri
+ARS,399,Martin Ødegaard
+ARS,408,Martín Zubimendi Ibáñez
+ARS,404,Mikel Merino Zazón
+ARS,386,Tommy Setford
+ARS,415,Viktor Gyökeres
+AVL,444,Ben Broggio
+AVL,434,Emiliano Buendía Stati
+AVL,416,Emiliano Martínez Romero
+AVL,419,Filip Marschall
+AVL,446,Jamaldeen Jimoh-Aloba
+AVL,418,Joe Gauci
+AVL,447,Kadan Young
+AVL,429,Lino da Cruz Sousa
+AVL,420,Matty Cash
+AVL,430,Yasin Özcan
+AVL,449,Zépiqueno Redmond
+AVL,427,Álex Moreno Lopera
+BHA,597,Adrian Mazilu
+BHA,562,Carl Rushworth
+BHA,602,Charalampos Kostoulas
+BHA,577,Charlie Tasker
+BHA,590,Diego Gómez Amarilla
+BHA,569,Ferdi Kadıoğlu
+BHA,570,Igor Julio dos Santos de Paulo
+BHA,576,Jacob Slater
+BHA,592,Jeremy Sarmiento Morante
+BHA,596,Joe Knight
+BHA,582,Julio Enciso Espínola
+BHA,563,Kjell Scherpen
+BHA,595,Malick Yalcouyé
+BHA,585,Matt O'Riley
+BHA,566,Maxim De Cuyper
+BHA,564,Olivier Boscagli
+BHA,568,Pervis Estupiñán Tenorio
+BHA,601,Stefanos Tzimas
+BHA,561,Tom McGill
+BHA,593,Tom Watson
+BOU,492,Alex Paulsen
+BOU,491,Callan McKenna
+BOU,521,Daniel Adu-Adjei
+BOU,519,Francisco Evanilson de Lima Barbosa
+BOU,515,Hamed Traorè
+BOU,502,Julio Soler Barreto
+BOU,500,Julián Araujo Zúñiga
+BOU,513,Luis Sinisterra Lucumí
+BOU,494,Marcos Senesi Barón
+BOU,497,Matai Akinmboni
+BOU,488,Norberto Murara Neto
+BOU,490,Will Dennis
+BOU,489,Đorđe Petrović
+BRE,543,Antoni Milambo
+BRE,536,Benjamin Arthur
+BRE,537,Benjamin Fredrick
+BRE,524,Ellery Balcombe
+BRE,544,Fábio Freitas Gouveia Carvalho
+BRE,548,Gustavo Nunes Fernandes Gomes
+BRE,527,Hákon Rafn Valdimarsson
+BRE,557,Igor Thiago Nascimento Rodrigues
+BRE,558,Iwan Morgan
+BRE,526,Julian Eyestone
+BRE,534,Mads Roerslev Rasmussen
+BRE,525,Matthew Cox
+BRE,551,Romelle Donovan
+BRE,550,Yehor Yarmoliuk
+BRE,552,Yunus Emre Konak
+BUR,486,Ashley Barnes
+BUR,461,Bashir Humphreys
+BUR,471,Enock Agyei
+BUR,452,Etienne Green
+BUR,481,Jaydon Banel
+BUR,462,Jordan Beyer
+BUR,477,Josh Laurent
+BUR,463,Lucas Pires Silva
+BUR,469,Manuel Benson Hedilazio
+BUR,474,Marcus Edwards
+BUR,451,Max Weiß
+BUR,482,Mike Trésor Ndayishimiye
+BUR,465,Oliver Sonne
+BUR,480,Oluwaseun Adewumi
+BUR,457,Owen Dodgson
+BUR,460,Quilindschy Hartman
+BUR,464,Shurandy Sambo
+BUR,453,Václav Hladký
+BUR,483,Zian Flemming
+CHE,617,Aarón Anselmino
+CHE,629,Andrey Nascimento dos Santos
+CHE,630,Dário Luís Essugo
+CHE,621,Estêvão Almeida de Oliveira Gonçalves
+CHE,606,Gabriel Słonina
+CHE,632,João Pedro Junqueira de Jesus
+CHE,631,Kendry Páez Andrade
+CHE,610,Levi Samuels Colwill
+CHE,607,Marc Cucurella Saseta
+CHE,635,Marc Guiu Paz
+CHE,605,Mike Penders
+CHE,624,Moisés Caicedo Corozo
+CHE,619,Pedro Lomba Neto
+CHE,603,Robert Lynch Sánchez
+CRY,645,Chadi Riad Dnanou
+CRY,651,Cheick Doucouré
+CRY,639,Daniel Muñoz Mejía
+CRY,665,Franco Umeh-Chibueze
+CRY,655,Jefferson Lerma Solís
+CRY,664,Kaden Rodney
+CRY,662,Matheus França de Oliveira
+CRY,637,Walter Benítez
+CRY,669,Zach Marsh
+EVE,689,Callum Bates
+EVE,684,Carlos Alcaraz Durán
+EVE,690,Coby Ebere
+EVE,683,Dwight McNeil
+EVE,688,Harrison Armstrong
+EVE,672,Harry Tyrer
+EVE,685,Idrissa Gana Gueye
+EVE,691,Isaac Heath
+EVE,676,Jake O'Brien
+EVE,686,James Garner
+EVE,692,Jenson Metcalfe
+EVE,696,Martin Sherif
+EVE,694,Norberto Bercique Gomes Betuncal
+EVE,681,Reece Welch
+EVE,693,Thierno Barry
+EVE,687,Tim Iroegbunam
+EVE,695,Youssef Ramalho Chermiti
+FUL,709,Adama Traoré Diarra
+FUL,707,Alex Iwobi
+FUL,710,Andreas Hoelgebaum Pereira
+FUL,699,Antonee Robinson
+FUL,722,Benjamin Lecomte
+FUL,697,Bernd Leno
+FUL,701,Calvin Bassey
+FUL,708,Emile Smith Rowe
+FUL,719,Harrison Reed
+FUL,712,Harry Wilson
+FUL,703,Issa Diop
+FUL,700,Joachim Andersen
+FUL,704,Jorge Cuenca Barreno
+FUL,718,Josh King
+FUL,705,Kenny Tete
+FUL,717,Luke Harris
+FUL,716,Martial Godo
+FUL,720,Raúl Jiménez Rodríguez
+FUL,721,Rodrigo Muniz Carvalho
+FUL,711,Ryan Sessegnon
+FUL,706,Samuel Amissah
+FUL,713,Sander Berge
+FUL,715,Saša Lukić
+FUL,698,Steven Benda
+FUL,702,Timothy Castagne
+FUL,714,Tom Cairney
+LEE,724,Alex Cairns
+LEE,751,Anton Stach
+LEE,734,Brenden Aaronson
+LEE,743,Charlie Crew
+LEE,737,Daniel James
+LEE,745,Darko Gyabi
+LEE,738,Ethan Ampadu
+LEE,731,Gabriel Gudmundsson
+LEE,740,Ilia Gruev
+LEE,723,Illan Meslier
+LEE,733,Isaac Schmidt
+LEE,736,Jack Harrison
+LEE,728,Jaka Bijol
+LEE,726,Jayden Bogle
+LEE,744,Joe Gelhardt
+LEE,732,Joe Rodon
+LEE,746,Joël Piroe
+LEE,725,Karl Darlow
+LEE,741,Largie Ramazani
+LEE,752,Lucas Estella Perri
+LEE,749,Lukas Nmecha
+LEE,748,Mateo Joseph Fernández-Regatillo
+LEE,727,Pascal Struijk
+LEE,747,Patrick Bamford
+LEE,730,Sam Byram
+LEE,739,Sam Greenwood
+LEE,750,Sean Longstaff
+LEE,729,Sebastiaan Bornauw
+LEE,742,Tanaka Ao
+LEE,735,Wilfried Gnonto
+LIV,773,Alexis Mac Allister
+LIV,753,Alisson Becker
+LIV,765,Amara Nallo
+LIV,759,Andrew Robertson
+LIV,778,Ben Doak
+LIV,767,Calvin Ramsay
+LIV,771,Cody Gakpo
+LIV,762,Conor Bradley
+LIV,775,Curtis Jones
+LIV,784,Darwin Núñez Ribeiro
+LIV,774,Dominik Szoboszlai
+LIV,779,Endo Wataru
+LIV,772,Federico Chiesa
+LIV,769,Florian Wirtz
+LIV,756,Freddie Woodman
+LIV,754,Giorgi Mamardashvili
+LIV,776,Harvey Elliott
+LIV,786,Hugo Ekitiké
+LIV,761,Ibrahima Konaté
+LIV,781,James McConnell
+LIV,785,Jayden Danns
+LIV,757,Jeremie Frimpong
+LIV,763,Joe Gomez
+LIV,764,Konstantinos Tsimikas
+LIV,770,Luis Díaz Marulanda
+LIV,758,Milos Kerkez
+LIV,768,Mohamed Salah
+LIV,766,Rhys Williams
+LIV,777,Ryan Gravenberch
+LIV,780,Stefan Bajčetić Maquieira
+LIV,783,Trey Nyoni
+LIV,782,Tyler Morton
+LIV,760,Virgil van Dijk
+LIV,755,Ármin Pécsi
+MCI,794,Abdukodir Khusanov
+MCI,804,Bernardo Mota Veiga de Carvalho e Silva
+MCI,813,Claudio Echeverri
+MCI,787,Ederson Santana de Moraes
+MCI,818,Erling Haaland
+MCI,807,Jack Grealish
+MCI,814,James McAtee
+MCI,797,John Stones
+MCI,791,Joško Gvardiol
+MCI,806,Jérémy Doku
+MCI,817,Kalvin Phillips
+MCI,792,Manuel Akanji
+MCI,789,Marcus Bettinelli
+MCI,810,Mateo Kovačić
+MCI,795,Matheus Nunes
+MCI,793,Nathan Aké
+MCI,811,Nico González Iglesias
+MCI,799,Nico O'Reilly
+MCI,801,Omar Marmoush
+MCI,812,Oscar Bobb
+MCI,802,Phil Foden
+MCI,790,Rayan Aït-Nouri
+MCI,805,Rayan Cherki
+MCI,798,Rico Lewis
+MCI,809,Rodrigo 'Rodri' Hernandez Cascante
+MCI,796,Rúben dos Santos Gato Alves Dias
+MCI,788,Stefan Ortega Moreno
+MCI,816,Sverre Nypan
+MCI,803,Sávio Moreira de Oliveira
+MCI,815,Tijjani Reijnders
+MCI,800,Vitor de Oliveira Nunes dos Reis
+MCI,808,İlkay Gündoğan
+MUN,842,Alejandro Garnacho Ferreyra
+MUN,820,Altay Bayındır
+MUN,841,Amad Diallo
+MUN,821,André Onana
+MUN,843,Antony dos Santos
+MUN,836,Ayden Heaven
+MUN,838,Bruno Borges Fernandes
+MUN,819,Bryan Mbeumo
+MUN,846,Carlos Henrique Casimiro
+MUN,856,Chido Obi
+MUN,824,Dermot Mee
+MUN,828,Diego León Blanco
+MUN,829,Diogo Dalot Teixeira
+MUN,822,Elyh Harrison
+MUN,857,Ethan Wheatley
+MUN,834,Harry Amass
+MUN,831,Harry Maguire
+MUN,851,Jack Fletcher
+MUN,853,Jack Moorhouse
+MUN,845,Jadon Sancho
+MUN,850,Jayce Fitzgerald
+MUN,855,Joshua Zirkzee
+MUN,847,Kobbie Mainoo
+MUN,833,Leny Yoro
+MUN,826,Lisandro Martínez
+MUN,832,Luke Shaw
+MUN,848,Manuel Ugarte Ribeiro
+MUN,840,Marcus Rashford
+MUN,844,Mason Mount
+MUN,839,Matheus Santos Carneiro da Cunha
+MUN,825,Matthijs de Ligt
+MUN,827,Noussair Mazraoui
+MUN,830,Patrick Dorgu
+MUN,854,Rasmus Højlund
+MUN,852,Sékou Koné
+MUN,849,Toby Collyer
+MUN,823,Tom Heaton
+MUN,835,Tyler Fredricson
+MUN,837,Tyrell Malacia
+NEW,881,Antoñito Cordero Campillo
+NEW,877,Bruno Guimarães Rodriguez Moura
+NEW,884,Garang Kuol
+NEW,871,Harrison Ashby
+NEW,883,Isaac Hayden
+NEW,879,Joelinton Cássio Apolinário de Lira
+NEW,860,Mark Gillespie
+NEW,859,Martin Dúbravka
+NEW,872,Miodrag Pivaš
+NEW,858,Nick Pope
+NEW,861,Odysseas Vlachodimos
+NEW,889,Sean Neave
+NEW,866,Tino Livramento
+NFO,891,Carlos Miguel dos Santos Pereira
+NFO,897,David Mota Veiga Teixeira do Carmo
+NFO,899,Felipe Rodrigues da Silva
+NFO,914,Igor Jesus Maciel da Cruz
+NFO,898,Jair Paula da Cunha Filho
+NFO,906,João Pedro Ferreira da Silva
+NFO,908,Lewis O'Brien
+NFO,912,Marko Stamenić
+NFO,894,Murillo Costa dos Santos
+NFO,900,Omar Richards
+NFO,901,Zach Abbott
+SUN,942,Abdoullah Ba
+SUN,950,Ahmed Abdullahi
+SUN,921,Aji Alese
+SUN,943,Alan Browne
+SUN,916,Anthony Patterson
+SUN,918,Blondy Nna Noukeu
+SUN,941,Chemsdine Talbi
+SUN,939,Chris Rigg
+SUN,937,Dan Neil
+SUN,919,Daniel Ballard
+SUN,923,Dennis Cirkin
+SUN,949,Eliezer Mayenda Dossou
+SUN,945,Harrison Jones
+SUN,938,Ian Poveda-Ocampo
+SUN,946,Jay Matete
+SUN,930,Jenson Seelt
+SUN,922,Joe Anderson
+SUN,924,Leo Fuhr Hjelde
+SUN,927,Luke O'Nien
+SUN,951,Luís Hemir Silva Semedo
+SUN,934,Milan Aleksić
+SUN,952,Nazarii Rusyn
+SUN,947,Nectarios Triantis
+SUN,925,Niall Huggins
+SUN,940,Noah Sadiki
+SUN,933,Patrick Roberts
+SUN,944,Pierre Ekwah Elimby
+SUN,929,Reinildo Mandava
+SUN,936,Romaine Mundle
+SUN,917,Simon Moore
+SUN,920,Trai Hume
+SUN,948,Wilson Isidor
+SUN,926,Zak Johnson
+TOT,964,Ashley Phillips
+TOT,983,Callum Olusesi
+TOT,962,Destiny Udogie
+TOT,984,Dominic Solanke-Mitchell
+TOT,966,Luka Vušković
+TOT,981,Pape Matar Sarr
+TOT,956,Pedro Porro Sauceda
+TOT,985,Richarlison de Andrade
+TOT,965,Takai Kōta
+TOT,982,Yang Min-hyeok
+WHU,1014,Callum Marshall
+WHU,1004,Edson Álvarez Velázquez
+WHU,991,El Hadji Malick Diouf
+WHU,992,Emerson Palmieri dos Santos
+WHU,1011,Freddie Potts
+WHU,990,Krisztián Hegyi
+WHU,1000,Lucas Tolentino Coelho de Lima
+WHU,1007,Luis Guilherme Lira dos Santos
+WHU,993,Maximilian Kilman
+WHU,995,Nayef Aguerd
+WHU,996,Ollie Scarles
+WOL,1032,André Trindade da Costa Neto
+WOL,1028,Bastien Meupiyou Menadjou
+WOL,1041,Enso González Medina
+WOL,1034,Fer López González
+WOL,1044,Fábio Soares Silva
+WOL,1036,Gonçalo Manuel Ganchinho Guedes
+WOL,1022,Hugo Bueno López
+WOL,1048,Jhon Arias
+WOL,1042,Joe Hodge
+WOL,1017,José Malheiro de Sá
+WOL,1035,João Victor Gomes da Silva
+WOL,1029,Pedro Cardoso de Lima
+WOL,1024,Rodrigo Martins Gomes
+WOL,1025,Santiago Ignacio Bueno
+WOL,1040,Tom Edozie
+WOL,1026,Toti Gomes
+WOL,1023,Yerson Mosquera Valdelamar
