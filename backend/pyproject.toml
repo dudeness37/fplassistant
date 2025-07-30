@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fpl-ai-backend"
-version = "0.1.0"
+version = "0.2.0"
 description = "Backend for FPL AI"
 authors = ["You <you@example.com>"]
 readme = "README.md"
@@ -11,6 +11,7 @@ python = "^3.11"
 fastapi = "^0.111.0"
 uvicorn = "^0.30.0"
 sqlmodel = "^0.0.16"
+SQLAlchemy = "^2.0.31"
 psycopg = { extras = ["binary"], version = "^3.1.18" }
 alembic = "^1.13.1"
 pydantic-settings = "^2.3.0"
@@ -20,6 +21,9 @@ pandas = "^2.2.2"
 orjson = "^3.10.0"
 loguru = "^0.7.2"
 ortools = "^9.10.4067"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
+lxml = "^5.2.2"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.2.0"
